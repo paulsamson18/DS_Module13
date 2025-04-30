@@ -16,8 +16,8 @@ To write a C program to convert the infix expression into postfix form using sta
 ```
 /*
 Program to convert the infix expression into postfix expression
-Developed by:  SANJAY S
-RegisterNumber: 212222230132
+Developed by:  PAUL SAMSON.S
+RegisterNumber: 212222230104
 
 */
 #include<stdio.h> 
